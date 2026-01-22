@@ -1,4 +1,4 @@
-# Date Created: 01/07/2026 Name: Konrad Kolber
+# Date Created: 01/20/2026 Name: Konrad Kolber
 
 print("Problem 1")
 
@@ -60,4 +60,5 @@ circleperimeterresult = 2 * circlepiratio * circleradiusvalue
 
 print("Circle area:", circlearearesult)
 print("Circle perimeter:", circleperimeterresult)
+
 
