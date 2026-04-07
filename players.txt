@@ -1,0 +1,10 @@
+Smith 0.267
+Johnson 0.300
+Brown 0.251
+Taylor 0.289
+Anderson 0.315
+Thomas 0.278
+Jackson 0.245
+White 0.301
+Harris 0.260
+Martin 0.292

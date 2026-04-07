@@ -1,0 +1,10 @@
+Smith 88
+Johnson 92
+Brown 76
+Taylor 85
+Anderson 95
+Thomas 81
+Jackson 79
+White 90
+Harris 87
+Martin 93
